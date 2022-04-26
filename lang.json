@@ -1,0 +1,50 @@
+{
+    "NAME_EMPTY": {
+        "en": "Please enter name.",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "CATEORY_CREATE": {
+        "en": "Product category successfully Created",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "CATEORY_LIST": {
+        "en": "Product category list",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "CATEORY_UPDATE": {
+        "en": "Product category successfully update",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_EMPTY": {
+        "en": "Please enter product name.",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_CATEGORY_EMPTY": {
+        "en": "Please enter product category id.",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_CATEGORY_NUMERIC": {
+        "en": "Please enter product cateory integer only.",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_CREATE": {
+        "en": "Product successfully Created",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_LIST": {
+        "en": "Product list",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_UPDATE": {
+        "en": "Product successfully update",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_DETAILS": {
+        "en": "Product details",
+        "ar": "يرجى ادخال الاسم الاول."
+    },
+    "PRODUCT_DELETE": {
+        "en": "Product delete successfully",
+        "ar": "يرجى ادخال الاسم الاول."
+    }
+}
